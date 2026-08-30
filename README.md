@@ -29,7 +29,7 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 | Erfurt | ERF | [updates/erf-update.json](updates/erf-update.json) |
 | Freiburg | FRB | [updates/frb-update.json](updates/frb-update.json) |
 | Hamburg | HAM | [updates/ham-update.json](updates/ham-update.json) |
-| Kiel | KIE | [updates/kie-update.json](updates/kie-update.json) |
+| Kiel | KIL | [updates/kil-update.json](updates/kil-update.json) |
 | Lübeck | LUB | [updates/lub-update.json](updates/lub-update.json) |
 | Magdeburg | MAG | [updates/mag-update.json](updates/mag-update.json) |
 | Mönchengladbach | MGL | [updates/mgl-update.json](updates/mgl-update.json) |

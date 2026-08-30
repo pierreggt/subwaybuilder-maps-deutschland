@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/kil-v1.0.0/kiel_v1.0.0.zip",
+      "sha256": "539ea49bcc858408cc3c0a87b8294fea7f7330f2ebbfebc06064430a7436f4a4"
+    }
+  ]
+}
