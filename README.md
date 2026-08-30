@@ -1,6 +1,6 @@
 # Subway Builder Maps — Germany (pierreggt collection)
 
-A shared repository of community-created [Subway Builder](https://store.steampowered.com/app/2716540/Subway_Builder/) maps for Germany, built with [depot](https://github.com/Subway-Builder-Modded/depot).
+A shared repository of community-created Subway Builder maps for Germany, built with [depot](https://github.com/Subway-Builder-Modded/depot).
 
 Each map lives in its own top-level folder (full mod source, `.pmtiles` tracked via [Git LFS](https://git-lfs.com/)) and is also published as a versioned [GitHub Release](../../releases), one release per map (tag format `<code>-vX.Y.Z`), with the release asset being the flat data zip.
 
