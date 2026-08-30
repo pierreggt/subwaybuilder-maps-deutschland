@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Initial release.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/wfk-v1.0.0/rheinmainneckar_v1.0.0.zip",
-      "sha256": "abaff8dd3ae1d4e75086ef431afb6ba236c120c87953633b7a3eefd8243da03c"
+      "sha256": "8fc81b865b9cde0116dbf0e2e8ba56bcaf62ffcc297911e38b01a78985d6c4fb"
     }
   ]
 }

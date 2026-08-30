@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Use German city name instead of English/French form.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/nue-v1.0.0/nuremberg_v1.0.0.zip",
-      "sha256": "f6b2745e191dfeec9262c173a4d06fa6a397a17ea6e61974efc5ea1741ff8fd6"
+      "sha256": "8c8dd5abd6bde0abb1add08963506baa06100ac0ebffb45f8964f6585f1f650a"
     }
   ]
 }

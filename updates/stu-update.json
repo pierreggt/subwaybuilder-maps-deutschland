@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/stu-v1.0.0/stuttgart_v1.0.0.zip",
-      "sha256": "bf6f6cd81128f78715ac983ab7a1a080f1d413d1f5648ada9fe062cc03f9bc7d"
+      "sha256": "960e3fef3dd1a24353c62b765d10110f3e6a1f1549623f08c09eab434bb5a700"
     }
   ]
 }

@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/ham-v1.0.0/hamburg_v1.0.0.zip",
-      "sha256": "dbf997b9c912aadc1d30e4c68feb225b898057bfbe6b111c575cae609432462e"
+      "sha256": "53159d3e00397d8f2805a7c5344666ce2869856158f080d45f42da7d0198c674"
     }
   ]
 }

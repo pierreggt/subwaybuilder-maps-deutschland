@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/rhr-v1.0.0/ruhrgebiet_v1.0.0.zip",
-      "sha256": "57cdc9a28673cf9b5d3ba6b033694cf2c16a5fbf9fedc59510a76542293dd6cd"
+      "sha256": "ad872bb70fe118f31fa27eb8882fa30c01f590e908ca493d22cab5f9e00b6585"
     }
   ]
 }

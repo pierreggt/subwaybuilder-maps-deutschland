@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/bie-v1.0.0/bielefeld_v1.0.0.zip",
-      "sha256": "cd6174066247e2b819279a0372913aa3a81fd5ba0c9227f8f926b9bdaf49e4ae"
+      "sha256": "567f8fbbc51ffae40e80a7b8792b3088231c38bbc646e64b91b5867958f13391"
     }
   ]
 }

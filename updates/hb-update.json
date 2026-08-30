@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/hb-v1.0.0/bremen_v1.0.0.zip",
-      "sha256": "f5d6087b8c2d73f6756b4c431493660a7e11ccd555d2f13b49a3afa00a69e015"
+      "sha256": "7c0cf11480a67e3e9b7100ad813bb8a7b0fae9002107ff3eff9c8b980fbc2b7c"
     }
   ]
 }

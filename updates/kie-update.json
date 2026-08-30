@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Initial release.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/kie-v1.0.0/kiel_v1.0.0.zip",
-      "sha256": "4a3a41b58bea44147d3bf6a86de2d1b38a3f74de71127ff69bd07fd5f606b1dc"
+      "sha256": "15260a9303f55b0ae4f9e856b573c1ebb3ea5cdb80181da9399f42f4e46f4f88"
     }
   ]
 }

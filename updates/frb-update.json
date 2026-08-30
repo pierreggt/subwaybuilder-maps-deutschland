@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Initial release.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/frb-v1.0.0/freiburg_v1.0.0.zip",
-      "sha256": "721ac309360e6f0b99563572e04762e66626db6710ff4e6a42a1d9cacc17e96c"
+      "sha256": "b926ad605bb9bd0b3643c089031d1c5e602e42e7c26792c8eee84357a652e40b"
     }
   ]
 }

@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Use German city name instead of English/French form.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/bnc-v1.0.0/bonncologne_v1.0.0.zip",
-      "sha256": "9f7d17a06896db843a5230d4a2dc592f0d0a900b98b102cf1a19f591a41b6f6b"
+      "sha256": "c4cd8c7e7168fea7fad25858286d27723a680d1557ba88d62498435adf8f2778"
     }
   ]
 }
