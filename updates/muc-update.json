@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Initial release.",
+      "changelog": "Fix airport terminal split.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/muc-v1.0.0/munich_v1.0.0.zip",
-      "sha256": "80842d1ea68649436757ea772c5afc45304a5a989ad39d6a2fc5cb7c6f17af4a"
+      "sha256": "1f1864b6f690b89e96b7108cdc4b7b374de9965cb625b7c561951700414e24c7"
     }
   ]
 }

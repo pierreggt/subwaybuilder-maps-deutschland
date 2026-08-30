@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Initial release.",
+      "changelog": "Fix airport terminal split.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/bnc-v1.0.0/bonncologne_v1.0.0.zip",
-      "sha256": "5f54ec51456bcb9f731a7cd61ba25a55054ac34d584abda8cc5427816639d484"
+      "sha256": "72e4587acd1ae49b76c0d93130aa731ffd281eed8255ad46fa6fb105ffe38d50"
     }
   ]
 }

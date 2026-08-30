@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Initial release.",
+      "changelog": "Fix airport terminal split and road network gap.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/hb-v1.0.0/bremen_v1.0.0.zip",
-      "sha256": "1203dc15a2699f8b7b448e0a0a2de489dfdbc88c500a962771d92a62154017db"
+      "sha256": "5e2ef9549fd5547eb7062decf0f1798cbef401d647c56346bc4068ca66423874"
     }
   ]
 }

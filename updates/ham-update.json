@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Initial release.",
+      "changelog": "Fix airport terminal split.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/ham-v1.0.0/hamburg_v1.0.0.zip",
-      "sha256": "13f050987e3e2f32d54c5d4c9785a5bc51bb82d2b4b8c2db1d538107f2b7b26b"
+      "sha256": "ace4851cb68ddc53156de02987c66d8dda7ee49dbf4b10df50b0abc23ee0e162"
     }
   ]
 }
