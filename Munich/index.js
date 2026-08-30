@@ -1,21 +1,21 @@
 (function () {
     const api = window.SubwayBuilderAPI;
-    const LOG = '[Munich Mod]';
+    const LOG = '[München Mod]';
     if (!api) { console.error(LOG, 'SubwayBuilderAPI not found!'); return; }
 
     const t = api.utils.i18n.create({
         en: {
-            description: 'Map of Munich, Germany, from the city center to Munich Airport, spanning the full S-Bahn network into surrounding Oberbayern.',
-            notification: 'Welcome to Munich!\n\nIf the map is blank, make sure run_mac-linux.sh (or run_windows.bat) is running from the mod folder. Keep the terminal window open, then restart the game.\n\nPress Ctrl + Shift + R (Cmd + Option + R on Mac) from the main menu to load mods.\n\n\n\nEnjoy!'
+            description: 'Map of München, Germany, from the city center to Munich Airport, spanning the full S-Bahn network into surrounding Oberbayern.',
+            notification: 'Welcome to München!\n\nIf the map is blank, make sure run_mac-linux.sh (or run_windows.bat) is running from the mod folder. Keep the terminal window open, then restart the game.\n\nPress Ctrl + Shift + R (Cmd + Option + R on Mac) from the main menu to load mods.\n\n\n\nEnjoy!'
         },
         fr: {
-            description: 'Carte de Munich, Allemagne, du centre-ville a l\'aeroport de Munich, sur tout le reseau S-Bahn de la region de Haute-Baviere.',
-            notification: 'Bienvenue a Munich !\n\nSi la carte est vide, verifiez que run_mac-linux.sh (ou run_windows.bat) tourne depuis le dossier du mod. Gardez le terminal ouvert, puis redemarrez le jeu.\n\nUtilisez Ctrl + Shift + R (Cmd + Option + R sur Mac) depuis le menu principal.\n\n\n\nBon jeu !'
+            description: 'Carte de München, Allemagne, du centre-ville a l\'aeroport de Munich, sur tout le reseau S-Bahn de la region de Haute-Baviere.',
+            notification: 'Bienvenue a München !\n\nSi la carte est vide, verifiez que run_mac-linux.sh (ou run_windows.bat) tourne depuis le dossier du mod. Gardez le terminal ouvert, puis redemarrez le jeu.\n\nUtilisez Ctrl + Shift + R (Cmd + Option + R sur Mac) depuis le menu principal.\n\n\n\nBon jeu !'
         }
     });
 
     api.registerCity({
-        name: 'Munich',
+        name: 'München',
         code: 'MUC',
         description: t('description'),
         population: 3045993,
@@ -58,5 +58,5 @@
         if (cityCode === 'MUC') api.ui.showNotification(t('notification'), 'info');
     });
 
-    console.log(LOG, 'Munich mod loaded successfully!');
+    console.log(LOG, 'München mod loaded successfully!');
 })();

@@ -2,12 +2,12 @@
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 TARGET="$SCRIPT_DIR/../../cities/data/BNC"
 VERSION="1.30.0"
-echo "[Bonn-Cologne Mod] Copying data files to cities/data/BNC..."
+echo "[Bonn-Köln Mod] Copying data files to cities/data/BNC..."
 mkdir -p "$TARGET"
 cp -f "$SCRIPT_DIR/data/BNC/"* "$TARGET/"
-echo "[Bonn-Cologne Mod] Data files copied successfully."
+echo "[Bonn-Köln Mod] Data files copied successfully."
 if [ ! -f "$SCRIPT_DIR/pmtiles" ]; then
-    echo "[Bonn-Cologne Mod] Downloading pmtiles..."
+    echo "[Bonn-Köln Mod] Downloading pmtiles..."
     OS=$(uname -s); ARCH=$(uname -m)
     if [ "$OS" = "Darwin" ]; then
         if [ "$ARCH" = "arm64" ]; then URL="https://github.com/protomaps/go-pmtiles/releases/download/v${VERSION}/go-pmtiles-${VERSION}_Darwin_arm64.zip"
@@ -19,5 +19,5 @@ if [ ! -f "$SCRIPT_DIR/pmtiles" ]; then
     fi
     chmod +x "$SCRIPT_DIR/pmtiles"
 fi
-echo "[Bonn-Cologne Mod] Starting tile server on port 8088..."
+echo "[Bonn-Köln Mod] Starting tile server on port 8088..."
 "$SCRIPT_DIR/pmtiles" serve "$SCRIPT_DIR" --port 8088 --cors=*

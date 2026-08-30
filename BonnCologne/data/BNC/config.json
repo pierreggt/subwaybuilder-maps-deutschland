@@ -1,13 +1,13 @@
 {
     "code": "BNC",
-    "name": "Bonn-Cologne",
+    "name": "Bonn-K\u00f6ln",
     "bbox": [
         6.7,
         50.55,
         7.3,
         51.1
     ],
-    "description": "Fused map of Bonn and Cologne, Germany, from Cologne Bonn Airport to the surrounding Rhein-Sieg-Kreis, Rhein-Erft-Kreis and Rheinisch-Bergischer Kreis towns, covering the joined KVB and SWB Stadtbahn networks.",
+    "description": "Fused map of Bonn and K\u00f6ln, Germany, from Cologne Bonn Airport to the surrounding Rhein-Sieg-Kreis, Rhein-Erft-Kreis and Rheinisch-Bergischer Kreis towns, covering the joined KVB and SWB Stadtbahn networks.",
     "population": 2839773,
     "initialViewState": {
         "latitude": 50.83,

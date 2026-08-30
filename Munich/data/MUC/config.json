@@ -1,13 +1,13 @@
 {
     "code": "MUC",
-    "name": "Munich",
+    "name": "M\u00fcnchen",
     "bbox": [
         11.0,
         47.85,
         11.95,
         48.55
     ],
-    "description": "Map of Munich, Germany, from the city center to Munich Airport, spanning the full S-Bahn network into surrounding Oberbayern.",
+    "description": "Map of M\u00fcnchen, Germany, from the city center to Munich Airport, spanning the full S-Bahn network into surrounding Oberbayern.",
     "population": 3045993,
     "initialViewState": {
         "latitude": 48.137,

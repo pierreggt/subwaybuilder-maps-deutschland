@@ -1,13 +1,13 @@
 {
     "code": "NUE",
-    "name": "Nuremberg",
+    "name": "N\u00fcrnberg",
     "bbox": [
         10.85,
         49.28,
         11.35,
         49.65
     ],
-    "description": "Map of Nuremberg, Germany, including Furth, Erlangen and Schwabach, from the city center to Nuremberg Airport, spanning the VGN network.",
+    "description": "Map of N\u00fcrnberg, Germany, including F\u00fcrth, Erlangen and Schwabach, from the city center to Nuremberg Airport, spanning the VGN network.",
     "population": 1150414,
     "initialViewState": {
         "latitude": 49.45,

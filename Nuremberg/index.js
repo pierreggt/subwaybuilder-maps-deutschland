@@ -1,21 +1,21 @@
 (function () {
     const api = window.SubwayBuilderAPI;
-    const LOG = '[Nuremberg Mod]';
+    const LOG = '[Nürnberg Mod]';
     if (!api) { console.error(LOG, 'SubwayBuilderAPI not found!'); return; }
 
     const t = api.utils.i18n.create({
         en: {
-            description: 'Map of Nuremberg, Germany, including Furth, Erlangen and Schwabach, from the city center to Nuremberg Airport, spanning the VGN network.',
-            notification: 'Welcome to Nuremberg!\n\nIf the map is blank, make sure run_mac-linux.sh (or run_windows.bat) is running from the mod folder. Keep the terminal window open, then restart the game.\n\nPress Ctrl + Shift + R (Cmd + Option + R on Mac) from the main menu to load mods.\n\n\n\nEnjoy!'
+            description: 'Map of Nürnberg, Germany, including Fürth, Erlangen and Schwabach, from the city center to Nuremberg Airport, spanning the VGN network.',
+            notification: 'Welcome to Nürnberg!\n\nIf the map is blank, make sure run_mac-linux.sh (or run_windows.bat) is running from the mod folder. Keep the terminal window open, then restart the game.\n\nPress Ctrl + Shift + R (Cmd + Option + R on Mac) from the main menu to load mods.\n\n\n\nEnjoy!'
         },
         fr: {
-            description: 'Carte de Nuremberg, Allemagne, incluant Furth, Erlangen et Schwabach, du centre-ville a l\'aeroport de Nuremberg, sur le reseau VGN.',
-            notification: 'Bienvenue a Nuremberg !\n\nSi la carte est vide, verifiez que run_mac-linux.sh (ou run_windows.bat) tourne depuis le dossier du mod. Gardez le terminal ouvert, puis redemarrez le jeu.\n\nUtilisez Ctrl + Shift + R (Cmd + Option + R sur Mac) depuis le menu principal.\n\n\n\nBon jeu !'
+            description: 'Carte de Nürnberg, Allemagne, incluant Fürth, Erlangen et Schwabach, du centre-ville a l\'aeroport de Nuremberg, sur le reseau VGN.',
+            notification: 'Bienvenue a Nürnberg !\n\nSi la carte est vide, verifiez que run_mac-linux.sh (ou run_windows.bat) tourne depuis le dossier du mod. Gardez le terminal ouvert, puis redemarrez le jeu.\n\nUtilisez Ctrl + Shift + R (Cmd + Option + R sur Mac) depuis le menu principal.\n\n\n\nBon jeu !'
         }
     });
 
     api.registerCity({
-        name: 'Nuremberg',
+        name: 'Nürnberg',
         code: 'NUE',
         description: t('description'),
         population: 1150414,
@@ -58,5 +58,5 @@
         if (cityCode === 'NUE') api.ui.showNotification(t('notification'), 'info');
     });
 
-    console.log(LOG, 'Nuremberg mod loaded successfully!');
+    console.log(LOG, 'Nürnberg mod loaded successfully!');
 })();
