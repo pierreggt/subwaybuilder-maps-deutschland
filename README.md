@@ -37,5 +37,7 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 | Nuremberg | NUE | [updates/nue-update.json](updates/nue-update.json) |
 | Ruhrgebiet & Düsseldorf & Münster (Dortmund, Essen, Bochum, Duisburg, Wuppertal, Düsseldorf, Münster) | RHR | [updates/rhr-update.json](updates/rhr-update.json) |
 | Stuttgart | STU | [updates/stu-update.json](updates/stu-update.json) |
-
-Note: Bonn, Cologne, Halle, Leipzig, Hannover, Braunschweig, Wiesbaden-Mainz, Frankfurt and Rhein-Neckar-Karlsruhe are not listed above — they are being merged into regional fusion maps and will be added once those are built, tested, and finalized.
+| Bonn-Cologne | BNC | [updates/bnc-update.json](updates/bnc-update.json) |
+| Halle-Leipzig | HLE | [updates/hle-update.json](updates/hle-update.json) |
+| Hannover-Braunschweig | HBS | [updates/hbs-update.json](updates/hbs-update.json) |
+| Rhein-Main-Neckar (Wiesbaden, Mainz, Frankfurt, Mannheim, Heidelberg, Ludwigshafen, Karlsruhe) | WFK | [updates/wfk-update.json](updates/wfk-update.json) |

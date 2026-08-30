@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/wfk-v1.0.0/rheinmainneckar_v1.0.0.zip",
+      "sha256": "abaff8dd3ae1d4e75086ef431afb6ba236c120c87953633b7a3eefd8243da03c"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/hbs-v1.0.0/hannoverbraunschweig_v1.0.0.zip",
+      "sha256": "a723019546242a6adedfdad309b69a635169669dd8c3bf6bd191efa4e53cdc11"
+    }
+  ]
+}
