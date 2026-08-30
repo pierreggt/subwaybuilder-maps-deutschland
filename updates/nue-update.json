@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
+      "changelog": "Use German city name instead of English/French form.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/nue-v1.0.0/nuremberg_v1.0.0.zip",
-      "sha256": "417ec2d9a733d2aff041bacc997f4257c7e70c255300e0ed64a87a15bb48b66f"
+      "sha256": "f6b2745e191dfeec9262c173a4d06fa6a397a17ea6e61974efc5ea1741ff8fd6"
     }
   ]
 }

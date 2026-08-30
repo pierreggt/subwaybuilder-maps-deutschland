@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix airport terminal split.",
+      "changelog": "Use German city name instead of English/French form.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/bnc-v1.0.0/bonncologne_v1.0.0.zip",
-      "sha256": "72e4587acd1ae49b76c0d93130aa731ffd281eed8255ad46fa6fb105ffe38d50"
+      "sha256": "9f7d17a06896db843a5230d4a2dc592f0d0a900b98b102cf1a19f591a41b6f6b"
     }
   ]
 }

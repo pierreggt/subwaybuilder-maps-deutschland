@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
+      "changelog": "Use German city name instead of English/French form.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/muc-v1.0.0/munich_v1.0.0.zip",
-      "sha256": "2bd471128a2c5eb84b3132ae1dd69bf9e85854b109cd682e28b5a26fef50d7a6"
+      "sha256": "f0f87de0894a4a395807bbba56f2867d1ce100c163ace982f1e772ce1ca04f91"
     }
   ]
 }

@@ -33,11 +33,10 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 | Lübeck | LUB | [updates/lub-update.json](updates/lub-update.json) |
 | Magdeburg | MAG | [updates/mag-update.json](updates/mag-update.json) |
 | Mönchengladbach | MGL | [updates/mgl-update.json](updates/mgl-update.json) |
-| Munich | MUC | [updates/muc-update.json](updates/muc-update.json) |
-| Nuremberg | NUE | [updates/nue-update.json](updates/nue-update.json) |
+| München | MUC | [updates/muc-update.json](updates/muc-update.json) |
+| Nürnberg | NUE | [updates/nue-update.json](updates/nue-update.json) |
 | Ruhrgebiet & Düsseldorf & Münster (Dortmund, Essen, Bochum, Duisburg, Wuppertal, Düsseldorf, Münster) | RHR | [updates/rhr-update.json](updates/rhr-update.json) |
 | Stuttgart | STU | [updates/stu-update.json](updates/stu-update.json) |
-| Bonn-Cologne | BNC | [updates/bnc-update.json](updates/bnc-update.json) |
-| Halle-Leipzig | HLE | [updates/hle-update.json](updates/hle-update.json) |
+| Bonn-Köln | BNC | [updates/bnc-update.json](updates/bnc-update.json) |
 | Hannover-Braunschweig | HBS | [updates/hbs-update.json](updates/hbs-update.json) |
 | Rhein-Main-Neckar (Wiesbaden, Mainz, Frankfurt, Mannheim, Heidelberg, Ludwigshafen, Karlsruhe) | WFK | [updates/wfk-update.json](updates/wfk-update.json) |
