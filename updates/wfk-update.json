@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Rename map to Frankfurt Rhein-Main-Neckar for discoverability.",
+      "changelog": "Adjust title format to Frankfurt (Rhein-Main-Neckar).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/wfk-v1.0.0/rheinmainneckar_v1.0.0.zip",
-      "sha256": "2bd918d70a0db414076c140f309ec82118ccecf83e587527b3a4abe9300d0215"
+      "sha256": "17692b61bc8a2ca73c8aa5afc41feb281efc41fdc9e02d29d1b9474f3924c203"
     }
   ]
 }
