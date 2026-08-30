@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix airport terminal split.",
+      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/muc-v1.0.0/munich_v1.0.0.zip",
-      "sha256": "1f1864b6f690b89e96b7108cdc4b7b374de9965cb625b7c561951700414e24c7"
+      "sha256": "2bd471128a2c5eb84b3132ae1dd69bf9e85854b109cd682e28b5a26fef50d7a6"
     }
   ]
 }

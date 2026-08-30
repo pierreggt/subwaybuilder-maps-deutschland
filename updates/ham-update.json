@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix airport terminal split.",
+      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/ham-v1.0.0/hamburg_v1.0.0.zip",
-      "sha256": "ace4851cb68ddc53156de02987c66d8dda7ee49dbf4b10df50b0abc23ee0e162"
+      "sha256": "dbf997b9c912aadc1d30e4c68feb225b898057bfbe6b111c575cae609432462e"
     }
   ]
 }

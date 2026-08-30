@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix airport terminal split and road network gap.",
+      "changelog": "Exclude non-residential buildings (police, courthouses, parking, industrial) from residential weighting model, for consistency with the rest of the pack.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/hb-v1.0.0/bremen_v1.0.0.zip",
-      "sha256": "5e2ef9549fd5547eb7062decf0f1798cbef401d647c56346bc4068ca66423874"
+      "sha256": "f5d6087b8c2d73f6756b4c431493660a7e11ccd555d2f13b49a3afa00a69e015"
     }
   ]
 }
