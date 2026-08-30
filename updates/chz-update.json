@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/chz-v1.0.0/chemnitz_v1.0.0.zip",
+      "sha256": "f121a4aa1927189a328cc294676855d528b64f3ee2a463c3fac13f776aa901cd"
+    }
+  ]
+}

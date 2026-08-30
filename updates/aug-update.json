@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/aug-v1.0.0/augsburg_v1.0.0.zip",
+      "sha256": "bfb7434fa6167a9210fab978854cb735336bf525e3b461c1534ffb30a6d466da"
+    }
+  ]
+}

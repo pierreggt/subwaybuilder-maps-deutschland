@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/aac-v1.0.0/aachen_v1.0.0.zip",
+      "sha256": "740c425f3837c911b3666a97834451beb16e3de08f71ff46bdc906487694d1bc"
+    }
+  ]
+}

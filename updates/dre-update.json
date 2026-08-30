@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/dre-v1.0.0/dresden_v1.0.0.zip",
+      "sha256": "c72b3d8d13a8b9727373f3e8648359e01a3e4d753c946f791bc45fd1e94d607c"
+    }
+  ]
+}

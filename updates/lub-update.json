@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/lub-v1.0.0/luebeck_v1.0.0.zip",
+      "sha256": "c001d1519714ede4edb2efc8ee9da2dbec105e6182df4208ee16fcaa5df49a82"
+    }
+  ]
+}

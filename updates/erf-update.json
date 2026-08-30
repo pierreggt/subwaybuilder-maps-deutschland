@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/erf-v1.0.0/erfurt_v1.0.0.zip",
+      "sha256": "3fbf14615b2133b90fdb37b2d50cfb9d212c65835f6eba1e7fd0908234c70604"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/mgl-v1.0.0/moenchengladbach_v1.0.0.zip",
+      "sha256": "6c106b42809fc7cc23250d5c8e1a7d641d5b9de1e8a6a4519cca0508068031b3"
+    }
+  ]
+}

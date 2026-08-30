@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/mag-v1.0.0/magdeburg_v1.0.0.zip",
+      "sha256": "8d8476960748454cce28530e93cdd3720e4dda902e395c285e4960b4e16bbc9a"
+    }
+  ]
+}

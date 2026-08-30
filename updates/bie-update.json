@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/bie-v1.0.0/bielefeld_v1.0.0.zip",
+      "sha256": "329c7a7433090b71898a1ffd0c0d9007eb8546ff1c45e2eb0a345d628f8ddd56"
+    }
+  ]
+}

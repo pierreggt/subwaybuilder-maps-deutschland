@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/rhr-v1.0.0/ruhrgebiet_v1.0.0.zip",
+      "sha256": "e9063c188359f4a9294f8dbbd53f14dc84e694347172df1b874a6ee34c8fad13"
+    }
+  ]
+}

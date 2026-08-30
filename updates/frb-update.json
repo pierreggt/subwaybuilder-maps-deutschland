@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/frb-v1.0.0/freiburg_v1.0.0.zip",
+      "sha256": "721ac309360e6f0b99563572e04762e66626db6710ff4e6a42a1d9cacc17e96c"
+    }
+  ]
+}

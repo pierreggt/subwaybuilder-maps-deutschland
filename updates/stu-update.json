@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/stu-v1.0.0/stuttgart_v1.0.0.zip",
+      "sha256": "85ddef83c9ca4102ee9738ffb091a9482885e61ca3884789dcd2f8724adf8673"
+    }
+  ]
+}

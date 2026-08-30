@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-30",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/nue-v1.0.0/nuremberg_v1.0.0.zip",
+      "sha256": "0fcbb5f72e10be6edfbe7bd428e7f33068d98c7d4ad236830e751525ee5f3ec4"
+    }
+  ]
+}
