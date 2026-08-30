@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.magdeburg",
+    "name": "Magdeburg",
+    "description": "Map of Magdeburg, Germany, from the OVGU campus to the surrounding towns of Schoenebeck, Burg, Haldensleben, Wolmirstedt, Barleben, Biederitz and Niedere Boerde, covering the tram and S-Bahn Mittelelbe network.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

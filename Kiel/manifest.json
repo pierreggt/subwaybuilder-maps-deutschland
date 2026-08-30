@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.kiel",
+    "name": "Kiel",
+    "description": "Map of Kiel, Germany, from the CAU campus to the surrounding towns of Preetz, Schwentinental, Altenholz, Ploen, Heikendorf, Schoenkirchen and Molfsee.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

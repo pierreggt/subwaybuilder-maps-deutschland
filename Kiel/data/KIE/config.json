@@ -1,0 +1,21 @@
+{
+    "code": "KIE",
+    "name": "Kiel",
+    "bbox": [
+        9.95,
+        54.05,
+        10.55,
+        54.45
+    ],
+    "description": "Map of Kiel, Germany, from the CAU campus to the surrounding towns of Preetz, Schwentinental, Altenholz, Ploen, Heikendorf, Schoenkirchen and Molfsee.",
+    "population": 731723,
+    "initialViewState": {
+        "latitude": 54.3233,
+        "longitude": 10.1228,
+        "zoom": 11,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

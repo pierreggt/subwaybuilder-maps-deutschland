@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.stuttgart",
+    "name": "Stuttgart",
+    "description": "Map of Stuttgart, Germany, from the city center to Stuttgart Airport, spanning the S-Bahn Stuttgart network into the surrounding region.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

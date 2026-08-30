@@ -1,0 +1,21 @@
+{
+    "code": "DRE",
+    "name": "Dresden",
+    "bbox": [
+        13.46,
+        50.94,
+        13.95,
+        51.19
+    ],
+    "description": "Map of Dresden, Germany and its surrounding towns: Radebeul, Coswig, Weinboehla, Freital, Bannewitz and Heidenau, from Dresden Airport (DRS) in the north to the Elbe valley towns south of the city, covering the DVB tram/bus network and S-Bahn lines.",
+    "population": 939135,
+    "initialViewState": {
+        "latitude": 51.065,
+        "longitude": 13.705,
+        "zoom": 10,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.augsburg",
+    "name": "Augsburg",
+    "description": "Map of Augsburg, Germany and its surrounding towns: Neusaess, Gersthofen, Stadtbergen, Friedberg and Koenigsbrunn, covering the Augsburger Verkehrsverbund (AVV) tram and bus network across the Augsburg Speckguertel.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

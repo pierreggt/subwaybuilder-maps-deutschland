@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.erfurt",
+    "name": "Erfurt",
+    "description": "Map of Erfurt, Germany, from Erfurt-Weimar Airport to the university campus and the surrounding towns of Weimar, Gotha, Arnstadt, Soemmerda, Apolda, Bad Berka, Nesse-Apfelstaedt and Stadtilm, covering the tram network.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

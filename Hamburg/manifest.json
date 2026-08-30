@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.hamburg",
+    "name": "Hamburg",
+    "description": "Map of Hamburg, Germany, from the city center to Hamburg Airport and the S-Bahn/U-Bahn network extending into Schleswig-Holstein.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

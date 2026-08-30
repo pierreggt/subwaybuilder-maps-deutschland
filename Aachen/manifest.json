@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.aachen",
+    "name": "Aachen",
+    "description": "Map of Aachen, Germany, from the RWTH campus to the surrounding Staedteregion towns of Wuerselen, Eschweiler, Stolberg, Herzogenrath, Alsdorf and Baesweiler.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

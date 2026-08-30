@@ -1,0 +1,21 @@
+{
+    "code": "AUG",
+    "name": "Augsburg",
+    "bbox": [
+        10.73,
+        48.22,
+        11.09,
+        48.47
+    ],
+    "description": "Map of Augsburg, Germany and its surrounding towns: Neusaess, Gersthofen, Stadtbergen, Friedberg and Koenigsbrunn, covering the Augsburger Verkehrsverbund (AVV) tram and bus network across the Augsburg Speckguertel.",
+    "population": 552151,
+    "initialViewState": {
+        "latitude": 48.365,
+        "longitude": 10.9,
+        "zoom": 10,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

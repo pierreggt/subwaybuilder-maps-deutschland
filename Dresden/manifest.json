@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.dresden",
+    "name": "Dresden",
+    "description": "Map of Dresden, Germany and its surrounding towns: Radebeul, Coswig, Weinboehla, Freital, Bannewitz and Heidenau, from Dresden Airport (DRS) in the north to the Elbe valley towns south of the city, covering the DVB tram/bus network and S-Bahn lines.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

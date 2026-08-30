@@ -1,0 +1,21 @@
+{
+    "code": "HB",
+    "name": "Bremen",
+    "bbox": [
+        8.45,
+        52.95,
+        9.05,
+        53.28
+    ],
+    "description": "Map of Bremen, Germany and its surrounding Niedersachsen towns: Achim, Bassum, Berne, Breddorf, D\u00f6tlingen, Elsfleth, Emtinghausen, Ganderkesee, Grasberg, Gro\u00df Ippener, Hambergen, Hepstedt, Hude, Kirchseelte, Lemwerder, Lilienthal, Osterholz-Scharmbeck, Ottersberg, Oyten, Prinzh\u00f6fte, Riede, Ritterhude, Schwanewede, Stuhr, Syke, Tarmstedt, Thedinghausen, Weyhe, Wilstedt and Worpswede, from the city center to Bremen Airport.",
+    "population": 841468,
+    "initialViewState": {
+        "latitude": 53.08,
+        "longitude": 8.81,
+        "zoom": 11,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.chemnitz",
+    "name": "Chemnitz",
+    "description": "Map of Chemnitz, Germany, from the TU Chemnitz campus to the surrounding towns of Limbach-Oberfrohna, Mittweida, Frankenberg, Burgstaedt, Stollberg, Floeha, Zschopau and Hainichen, covering the tram network.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.ruhrgebiet",
+    "name": "Ruhrgebiet",
+    "description": "Map of the Ruhrgebiet & Dusseldorf & Munster, Germany: Dortmund, Essen, Bochum, Duisburg, Wuppertal, Dusseldorf and Munster, sharing the VRR/Rhein-Ruhr-Express and regional rail network, from Dortmund and Dusseldorf Airports across the whole region.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

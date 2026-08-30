@@ -1,0 +1,9 @@
+2026/08/25 03:46:57 main.go:165: Serving  /Users/lenny/subway-builder-maps/game-mods/Hamburg on port 8081 and interface 0.0.0.0 with Access-Control-Allow-Origin: *
+2026/08/25 03:49:10 server.go:156: fetching HAM 0-16384
+2026/08/25 03:49:10 server.go:200: fetched HAM 0-16384
+2026/08/25 03:49:10 server.go:156: fetching HAM 127-47
+2026/08/25 03:49:10 server.go:200: fetched HAM 127-47
+2026/08/25 03:49:10 server.go:156: fetching HAM 3726-8909
+2026/08/25 03:49:10 server.go:200: fetched HAM 3726-8909
+2026/08/25 03:49:10 main.go:162: served 200 %2FHAM%2F0%2F0%2F0.mvt in 1.766167ms
+2026/08/25 04:02:28 main.go:162: served 200 %2FHAM%2F0%2F0%2F0.mvt in 681.042µs

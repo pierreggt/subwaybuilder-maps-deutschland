@@ -1,0 +1,21 @@
+{
+    "code": "STU",
+    "name": "Stuttgart",
+    "bbox": [
+        8.85,
+        48.6,
+        9.55,
+        48.9
+    ],
+    "description": "Map of Stuttgart, Germany, from the city center to Stuttgart Airport, spanning the S-Bahn Stuttgart network into the surrounding region.",
+    "population": 1939666,
+    "initialViewState": {
+        "latitude": 48.775,
+        "longitude": 9.18,
+        "zoom": 11,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

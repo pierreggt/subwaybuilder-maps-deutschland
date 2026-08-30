@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.luebeck",
+    "name": "L\u00fcbeck",
+    "description": "Map of Luebeck, Germany, from Luebeck-Blankensee Airport (LBC) to the university campus and the surrounding towns of Bad Schwartau, Stockelsdorf, Ratekau, Gross Groenau and Krummesse.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "code": "MGL",
+    "name": "M\u00f6nchengladbach",
+    "bbox": [
+        6.26,
+        51.06,
+        6.56,
+        51.26
+    ],
+    "description": "Map of Moenchengladbach, Germany and its immediate neighbours Willich, Viersen, Korschenbroich and Juechen, covering the NEW AG tram and bus network.",
+    "population": 567280,
+    "initialViewState": {
+        "latitude": 51.19,
+        "longitude": 6.44,
+        "zoom": 10,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

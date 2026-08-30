@@ -1,0 +1,21 @@
+{
+    "code": "HAM",
+    "name": "Hamburg",
+    "bbox": [
+        9.6,
+        53.35,
+        10.4,
+        53.9
+    ],
+    "description": "Map of Hamburg, Germany, from the city center to Hamburg Airport and the surrounding S-Bahn/U-Bahn network.",
+    "population": 2968841,
+    "initialViewState": {
+        "latitude": 53.5675,
+        "longitude": 10.0,
+        "zoom": 11,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

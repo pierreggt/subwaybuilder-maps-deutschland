@@ -1,0 +1,21 @@
+{
+    "code": "RHR",
+    "name": "Ruhrgebiet",
+    "bbox": [
+        6.55,
+        51.1,
+        7.85,
+        52.05
+    ],
+    "description": "Map of the Ruhrgebiet & Dusseldorf & Munster, Germany: Dortmund, Essen, Bochum, Duisburg, Wuppertal, Dusseldorf and Munster, sharing the VRR/Rhein-Ruhr-Express and regional rail network, from Dortmund and Dusseldorf Airports across the whole region.",
+    "population": 9064194,
+    "initialViewState": {
+        "latitude": 51.575,
+        "longitude": 7.2,
+        "zoom": 8,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

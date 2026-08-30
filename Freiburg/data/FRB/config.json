@@ -1,0 +1,21 @@
+{
+    "code": "FRB",
+    "name": "Freiburg im Breisgau",
+    "bbox": [
+        7.55,
+        47.75,
+        8.05,
+        48.17
+    ],
+    "description": "Map of Freiburg im Breisgau, Germany, from the university campus to the surrounding towns of Emmendingen, Bad Krozingen, Waldkirch, Muellheim, Denzlingen, Gundelfingen, Kirchzarten and Merzhausen, covering the tram network.",
+    "population": 828122,
+    "initialViewState": {
+        "latitude": 47.999,
+        "longitude": 7.8421,
+        "zoom": 10,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

@@ -1,0 +1,21 @@
+{
+    "code": "CHZ",
+    "name": "Chemnitz",
+    "bbox": [
+        12.6,
+        50.62,
+        13.22,
+        51.02
+    ],
+    "description": "Map of Chemnitz, Germany, from the TU Chemnitz campus to the surrounding towns of Limbach-Oberfrohna, Mittweida, Frankenberg, Burgstaedt, Stollberg, Floeha, Zschopau and Hainichen, covering the tram network.",
+    "population": 753133,
+    "initialViewState": {
+        "latitude": 50.8278,
+        "longitude": 12.9214,
+        "zoom": 10,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

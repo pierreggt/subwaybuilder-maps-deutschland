@@ -1,0 +1,21 @@
+{
+    "code": "BIE",
+    "name": "Bielefeld",
+    "bbox": [
+        8.25,
+        51.85,
+        8.8,
+        52.15
+    ],
+    "description": "Map of Bielefeld, Germany and its surrounding Ostwestfalen-Lippe towns: G\u00fctersloh, Herford, Detmold, Bad Salzuflen, Halle (Westf.), Enger, Harsewinkel, Herzebrock-Clarholz, Hiddenhausen, H\u00f6velhof, Lage, Leopoldsh\u00f6he, L\u00f6hne, Oerlinghausen, Rheda-Wiedenbr\u00fcck, Rietberg, Schlangen, Schlo\u00df Holte-Stukenbrock, Spenge, Steinhagen, Verl, Versmold, Vlotho, Werther (Westf.), Augustdorf and Borgholzhausen, covering the moBiel network.",
+    "population": 798564,
+    "initialViewState": {
+        "latitude": 52.02,
+        "longitude": 8.53,
+        "zoom": 11,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

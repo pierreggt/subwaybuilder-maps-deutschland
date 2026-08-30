@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.moenchengladbach",
+    "name": "Moenchengladbach",
+    "description": "Map of Moenchengladbach, Germany and its immediate neighbours Willich, Viersen, Korschenbroich and Juechen, covering the NEW AG tram and bus network.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

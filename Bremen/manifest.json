@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.bremen",
+    "name": "Bremen",
+    "description": "Map of Bremen, Germany and its surrounding Niedersachsen towns: Achim, Bassum, Berne, Breddorf, D\u00f6tlingen, Elsfleth, Emtinghausen, Ganderkesee, Grasberg, Gro\u00df Ippener, Hambergen, Hepstedt, Hude, Kirchseelte, Lemwerder, Lilienthal, Osterholz-Scharmbeck, Ottersberg, Oyten, Prinzh\u00f6fte, Riede, Ritterhude, Schwanewede, Stuhr, Syke, Tarmstedt, Thedinghausen, Weyhe, Wilstedt and Worpswede, from the city center to Bremen Airport.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

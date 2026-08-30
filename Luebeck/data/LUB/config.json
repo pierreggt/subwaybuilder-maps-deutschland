@@ -1,0 +1,21 @@
+{
+    "code": "LUB",
+    "name": "L\u00fcbeck",
+    "bbox": [
+        10.55,
+        53.75,
+        10.95,
+        54.05
+    ],
+    "description": "Map of Luebeck, Germany, from Luebeck-Blankensee Airport (LBC) to the university campus and the surrounding towns of Bad Schwartau, Stockelsdorf, Ratekau, Gross Groenau and Krummesse.",
+    "population": 362607,
+    "initialViewState": {
+        "latitude": 53.8655,
+        "longitude": 10.6866,
+        "zoom": 11,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

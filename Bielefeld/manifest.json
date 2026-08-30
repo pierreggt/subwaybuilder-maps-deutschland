@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.bielefeld",
+    "name": "Bielefeld",
+    "description": "Map of Bielefeld, Germany and its surrounding Ostwestfalen-Lippe towns: G\u00fctersloh, Herford, Detmold, Bad Salzuflen, Halle (Westf.), Enger, Harsewinkel, Herzebrock-Clarholz, Hiddenhausen, H\u00f6velhof, Lage, Leopoldsh\u00f6he, L\u00f6hne, Oerlinghausen, Rheda-Wiedenbr\u00fcck, Rietberg, Schlangen, Schlo\u00df Holte-Stukenbrock, Spenge, Steinhagen, Verl, Versmold, Vlotho, Werther (Westf.), Augustdorf and Borgholzhausen, covering the moBiel network.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

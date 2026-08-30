@@ -1,0 +1,21 @@
+{
+    "code": "MAG",
+    "name": "Magdeburg",
+    "bbox": [
+        11.2,
+        51.95,
+        12.0,
+        52.4
+    ],
+    "description": "Map of Magdeburg, Germany, from the OVGU campus to the surrounding towns of Schoenebeck, Burg, Haldensleben, Wolmirstedt, Barleben, Biederitz and Niedere Boerde, covering the tram and S-Bahn Mittelelbe network.",
+    "population": 631791,
+    "initialViewState": {
+        "latitude": 52.1205,
+        "longitude": 11.6276,
+        "zoom": 10,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

@@ -1,0 +1,21 @@
+{
+    "code": "ERF",
+    "name": "Erfurt",
+    "bbox": [
+        10.6,
+        50.7,
+        11.6,
+        51.25
+    ],
+    "description": "Map of Erfurt, Germany, from Erfurt-Weimar Airport to the university campus and the surrounding towns of Weimar, Gotha, Arnstadt, Soemmerda, Apolda, Bad Berka, Nesse-Apfelstaedt and Stadtilm, covering the tram network.",
+    "population": 1037939,
+    "initialViewState": {
+        "latitude": 50.9848,
+        "longitude": 11.0299,
+        "zoom": 10,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

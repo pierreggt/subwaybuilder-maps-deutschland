@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.freiburg",
+    "name": "Freiburg im Breisgau",
+    "description": "Map of Freiburg im Breisgau, Germany, from the university campus to the surrounding towns of Emmendingen, Bad Krozingen, Waldkirch, Muellheim, Denzlingen, Gundelfingen, Kirchzarten and Merzhausen, covering the tram network.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

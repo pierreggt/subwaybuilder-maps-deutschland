@@ -1,0 +1,21 @@
+{
+    "code": "AAC",
+    "name": "Aachen",
+    "bbox": [
+        5.95,
+        50.65,
+        6.35,
+        50.96
+    ],
+    "description": "Map of Aachen, Germany, from the RWTH campus to the surrounding Staedteregion towns of Wuerselen, Eschweiler, Stolberg, Herzogenrath, Alsdorf and Baesweiler.",
+    "population": 972674,
+    "initialViewState": {
+        "latitude": 50.7753,
+        "longitude": 6.0839,
+        "zoom": 11,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}
