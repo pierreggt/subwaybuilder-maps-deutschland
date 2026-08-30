@@ -2,12 +2,12 @@
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 TARGET="$SCRIPT_DIR/../../cities/data/WFK"
 VERSION="1.30.0"
-echo "[Frankfurt Rhein-Main-Neckar Mod] Copying data files to cities/data/WFK..."
+echo "[Frankfurt (Rhein-Main-Neckar) Mod] Copying data files to cities/data/WFK..."
 mkdir -p "$TARGET"
 cp -f "$SCRIPT_DIR/data/WFK/"* "$TARGET/"
-echo "[Frankfurt Rhein-Main-Neckar Mod] Data files copied successfully."
+echo "[Frankfurt (Rhein-Main-Neckar) Mod] Data files copied successfully."
 if [ ! -f "$SCRIPT_DIR/pmtiles" ]; then
-    echo "[Frankfurt Rhein-Main-Neckar Mod] Downloading pmtiles..."
+    echo "[Frankfurt (Rhein-Main-Neckar) Mod] Downloading pmtiles..."
     OS=$(uname -s); ARCH=$(uname -m)
     if [ "$OS" = "Darwin" ]; then
         if [ "$ARCH" = "arm64" ]; then URL="https://github.com/protomaps/go-pmtiles/releases/download/v${VERSION}/go-pmtiles-${VERSION}_Darwin_arm64.zip"
@@ -19,5 +19,5 @@ if [ ! -f "$SCRIPT_DIR/pmtiles" ]; then
     fi
     chmod +x "$SCRIPT_DIR/pmtiles"
 fi
-echo "[Frankfurt Rhein-Main-Neckar Mod] Starting tile server on port 8091..."
+echo "[Frankfurt (Rhein-Main-Neckar) Mod] Starting tile server on port 8091..."
 "$SCRIPT_DIR/pmtiles" serve "$SCRIPT_DIR" --port 8091 --cors=*
