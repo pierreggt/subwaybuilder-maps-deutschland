@@ -26,8 +26,8 @@
 
     api.map.setTileURLOverride({
         cityCode: 'MAG',
-        tilesUrl: 'http://127.0.0.1:8083/MAG/{z}/{x}/{y}.mvt',
-        foundationTilesUrl: 'http://127.0.0.1:8083/MAG_foundations/{z}/{x}/{y}.mvt',
+        tilesUrl: 'http://127.0.0.1:8080/MAG/{z}/{x}/{y}.mvt',
+        foundationTilesUrl: 'http://127.0.0.1:8080/MAG_foundations/{z}/{x}/{y}.mvt',
         maxZoom: 15
     });
 

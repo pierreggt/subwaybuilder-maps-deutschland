@@ -26,8 +26,8 @@
 
     api.map.setTileURLOverride({
         cityCode: 'ERF',
-        tilesUrl: 'http://127.0.0.1:8086/ERF/{z}/{x}/{y}.mvt',
-        foundationTilesUrl: 'http://127.0.0.1:8086/ERF_foundations/{z}/{x}/{y}.mvt',
+        tilesUrl: 'http://127.0.0.1:8080/ERF/{z}/{x}/{y}.mvt',
+        foundationTilesUrl: 'http://127.0.0.1:8080/ERF_foundations/{z}/{x}/{y}.mvt',
         maxZoom: 15
     });
 

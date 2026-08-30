@@ -26,8 +26,8 @@
 
     api.map.setTileURLOverride({
         cityCode: 'FRB',
-        tilesUrl: 'http://127.0.0.1:8084/FRB/{z}/{x}/{y}.mvt',
-        foundationTilesUrl: 'http://127.0.0.1:8084/FRB_foundations/{z}/{x}/{y}.mvt',
+        tilesUrl: 'http://127.0.0.1:8080/FRB/{z}/{x}/{y}.mvt',
+        foundationTilesUrl: 'http://127.0.0.1:8080/FRB_foundations/{z}/{x}/{y}.mvt',
         maxZoom: 15
     });
 

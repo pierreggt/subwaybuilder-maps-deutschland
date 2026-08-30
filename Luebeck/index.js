@@ -26,8 +26,8 @@
 
     api.map.setTileURLOverride({
         cityCode: 'LUB',
-        tilesUrl: 'http://127.0.0.1:8085/LUB/{z}/{x}/{y}.mvt',
-        foundationTilesUrl: 'http://127.0.0.1:8085/LUB_foundations/{z}/{x}/{y}.mvt',
+        tilesUrl: 'http://127.0.0.1:8080/LUB/{z}/{x}/{y}.mvt',
+        foundationTilesUrl: 'http://127.0.0.1:8080/LUB_foundations/{z}/{x}/{y}.mvt',
         maxZoom: 15
     });
 
