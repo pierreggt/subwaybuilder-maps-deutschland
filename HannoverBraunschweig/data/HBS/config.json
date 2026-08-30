@@ -1,0 +1,21 @@
+{
+    "code": "HBS",
+    "name": "Hannover-Braunschweig",
+    "bbox": [
+        9.35,
+        52.16,
+        10.68,
+        52.5
+    ],
+    "description": "Fused map of Hannover and Braunschweig, Germany, from Hannover Airport and Braunschweig-Wolfsburg Airport to the surrounding Region Hannover and Braunschweig towns, covering the joined Region Hannover and Braunschweig Stadtbahn/tram networks.",
+    "population": 1335246,
+    "initialViewState": {
+        "latitude": 52.32,
+        "longitude": 10.05,
+        "zoom": 9,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

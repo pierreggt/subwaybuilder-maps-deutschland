@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.bonncologne",
+    "name": "Bonn-Cologne",
+    "description": "Fused map of Bonn and Cologne, Germany, from Cologne Bonn Airport to the surrounding Rhein-Sieg-Kreis, Rhein-Erft-Kreis and Rheinisch-Bergischer Kreis towns, covering the joined KVB and SWB Stadtbahn networks.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

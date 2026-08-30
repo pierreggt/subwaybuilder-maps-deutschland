@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.rheinmainneckar",
+    "name": "Rhein-Main-Neckar",
+    "description": "Fused map of Wiesbaden, Mainz, Frankfurt, Mannheim, Heidelberg, Ludwigshafen, Karlsruhe and the surrounding Rhein-Main and Rhein-Neckar towns, Germany, from Frankfurt Airport and Karlsruhe/Baden-Baden Airport across the joined S-Bahn Rhein-Main and S-Bahn RheinNeckar networks.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

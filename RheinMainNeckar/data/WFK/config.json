@@ -1,0 +1,21 @@
+{
+    "code": "WFK",
+    "name": "Rhein-Main-Neckar",
+    "bbox": [
+        8.0,
+        48.75,
+        9.05,
+        50.4
+    ],
+    "description": "Fused map of Wiesbaden, Mainz, Frankfurt, Mannheim, Heidelberg, Ludwigshafen, Karlsruhe and the surrounding Rhein-Main and Rhein-Neckar towns, Germany, from Frankfurt Airport and Karlsruhe/Baden-Baden Airport across the joined S-Bahn Rhein-Main and S-Bahn RheinNeckar networks.",
+    "population": 6465096,
+    "initialViewState": {
+        "latitude": 49.55,
+        "longitude": 8.5,
+        "zoom": 8,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "DE"
+}

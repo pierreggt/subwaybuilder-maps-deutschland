@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.halleleipzig",
+    "name": "Halle-Leipzig",
+    "description": "Fused map of Halle (Saale) and Leipzig, Germany, sharing Leipzig/Halle Airport, from the MLU and Leipzig University campuses to the surrounding Saalekreis and Landkreis Leipzig/Nordsachsen towns, covering the joined tram and S-Bahn Mitteldeutschland networks.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

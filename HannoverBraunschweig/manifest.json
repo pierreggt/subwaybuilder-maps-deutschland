@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.hannoverbraunschweig",
+    "name": "Hannover-Braunschweig",
+    "description": "Fused map of Hannover and Braunschweig, Germany, from Hannover Airport and Braunschweig-Wolfsburg Airport to the surrounding Region Hannover and Braunschweig towns, covering the joined Region Hannover and Braunschweig Stadtbahn/tram networks.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}
