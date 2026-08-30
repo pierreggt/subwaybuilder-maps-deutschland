@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/mag-v1.0.0/magdeburg_v1.0.0.zip",
-      "sha256": "e7bb9b9c184754553f50f78507a2a0580653631c4d020da5f97894b4de5e8c89"
+      "sha256": "c68bef4725dcf561cdd19ed14822265dc6d1a283bea242efe50176ac150265e6"
     }
   ]
 }

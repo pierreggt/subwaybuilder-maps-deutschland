@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/erf-v1.0.0/erfurt_v1.0.0.zip",
-      "sha256": "6a7733c751501316b7a5c4fe7aff03c730935c85136d077fd6477ee1bd0257a0"
+      "sha256": "588223fecd6a130839d095dbe28ccafed45d173def1b103e927bc2ba267a65c0"
     }
   ]
 }

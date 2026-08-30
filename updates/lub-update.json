@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/lub-v1.0.0/luebeck_v1.0.0.zip",
-      "sha256": "df2c2b79eb2d77bda49f39305922283c97fc51bd19a69ae5cb0403485ac7815f"
+      "sha256": "cb153053bea58c35e322224046bff387933bcbbf7015541cef474aa15c6f722f"
     }
   ]
 }

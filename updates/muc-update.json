@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (registry validation failure).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/muc-v1.0.0/munich_v1.0.0.zip",
-      "sha256": "3612dfa46867a53521e6788f32f469b5bb195994e26f57d5ec22d1a0267a6eb9"
+      "sha256": "28659c6673f8254c392a3991e21b5e321e5d93f266d8bd5fabd25d74f4141160"
     }
   ]
 }

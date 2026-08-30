@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/chz-v1.0.0/chemnitz_v1.0.0.zip",
-      "sha256": "4b250c3dffe362533cb42061dccc871a8aa57cfe0705a3fcc07e1da2d17bc1ad"
+      "sha256": "7dba248718cbb97b7d5e6e29e93d981f0300c2f20b0a4ca4b9eb9c62de1e8d23"
     }
   ]
 }

@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/hb-v1.0.0/bremen_v1.0.0.zip",
-      "sha256": "7c0cf11480a67e3e9b7100ad813bb8a7b0fae9002107ff3eff9c8b980fbc2b7c"
+      "sha256": "b86194af57ad826302ee73cebe48d189b972ce3250be0847247047a8f22dcec0"
     }
   ]
 }

@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/stu-v1.0.0/stuttgart_v1.0.0.zip",
-      "sha256": "960e3fef3dd1a24353c62b765d10110f3e6a1f1549623f08c09eab434bb5a700"
+      "sha256": "06841a232f6590acccecca9f03476bb5275de792ab6f870cf65d8a194f3361a3"
     }
   ]
 }

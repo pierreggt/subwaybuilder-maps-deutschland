@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/bie-v1.0.0/bielefeld_v1.0.0.zip",
-      "sha256": "567f8fbbc51ffae40e80a7b8792b3088231c38bbc646e64b91b5867958f13391"
+      "sha256": "3f89d34f6a94d6cb27f68214a0fe5a0a73b7e6b0e24610f5de81b061351b8d64"
     }
   ]
 }

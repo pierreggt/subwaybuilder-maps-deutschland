@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/rhr-v1.0.0/ruhrgebiet_v1.0.0.zip",
-      "sha256": "ad872bb70fe118f31fa27eb8882fa30c01f590e908ca493d22cab5f9e00b6585"
+      "sha256": "27615f4a298eac416892d1b67c97db91bbe471247fd01c730808798fdb560776"
     }
   ]
 }

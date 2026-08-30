@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (data integrity fix, found during M\u00fcnchen registry validation).",
+      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/nue-v1.0.0/nuremberg_v1.0.0.zip",
-      "sha256": "8c8dd5abd6bde0abb1add08963506baa06100ac0ebffb45f8964f6585f1f650a"
+      "sha256": "e5146f14ed7cbb7708f32df191b344d65b1f7b8d4b36c2077f93f035d78afff9"
     }
   ]
 }
