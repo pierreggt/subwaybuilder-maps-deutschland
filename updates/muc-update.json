@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Use German city name instead of English/French form.",
+      "changelog": "Fix residents/jobs totals drift caused by isolated-point cleanup (registry validation failure).",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/muc-v1.0.0/munich_v1.0.0.zip",
-      "sha256": "f0f87de0894a4a395807bbba56f2867d1ce100c163ace982f1e772ce1ca04f91"
+      "sha256": "3612dfa46867a53521e6788f32f469b5bb195994e26f57d5ec22d1a0267a6eb9"
     }
   ]
 }
