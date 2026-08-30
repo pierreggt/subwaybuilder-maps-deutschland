@@ -1,10 +1,10 @@
 @echo off
 set SCRIPT_DIR=%~dp0
-set TARGET=%SCRIPT_DIR%..\..\cities\data\KIE
+set TARGET=%SCRIPT_DIR%..\..\cities\data\KIL
 set VERSION=1.30.0
-echo [Kiel Mod] Copying data files to cities\data\KIE...
+echo [Kiel Mod] Copying data files to cities\data\KIL...
 if not exist "%TARGET%" mkdir "%TARGET%"
-copy /Y "%SCRIPT_DIR%data\KIE\*" "%TARGET%\" >nul
+copy /Y "%SCRIPT_DIR%data\KIL\*" "%TARGET%\" >nul
 echo [Kiel Mod] Data files copied successfully.
 if not exist "%SCRIPT_DIR%pmtiles.exe" (
     echo [Kiel Mod] Downloading pmtiles.exe...

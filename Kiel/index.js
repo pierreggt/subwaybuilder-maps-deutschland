@@ -16,28 +16,28 @@
 
     api.registerCity({
         name: 'Kiel',
-        code: 'KIE',
+        code: 'KIL',
         description: t('description'),
         population: 731723,
         initialViewState: { zoom: 11, latitude: 54.3233, longitude: 10.1228, bearing: 0 }
     });
 
-    api.cities.registerTab({ id: 'germany-kie', label: 'Germany', cityCodes: ['KIE'] });
+    api.cities.registerTab({ id: 'germany-kil', label: 'Germany', cityCodes: ['KIL'] });
 
     api.map.setTileURLOverride({
-        cityCode: 'KIE',
-        tilesUrl: 'http://127.0.0.1:8080/KIE/{z}/{x}/{y}.mvt',
-        foundationTilesUrl: 'http://127.0.0.1:8080/KIE_foundations/{z}/{x}/{y}.mvt',
+        cityCode: 'KIL',
+        tilesUrl: 'http://127.0.0.1:8080/KIL/{z}/{x}/{y}.mvt',
+        foundationTilesUrl: 'http://127.0.0.1:8080/KIL_foundations/{z}/{x}/{y}.mvt',
         maxZoom: 15
     });
 
-    api.cities.setCityDataFiles('KIE', {
-        buildingsIndex: '/data/KIE/buildings_index.bin.gz',
-        demandData: '/data/KIE/demand_data.json.gz',
-        roads: '/data/KIE/roads.geojson.gz',
-        runwaysTaxiways: '/data/KIE/runways_taxiways.geojson.gz',
-        oceanDepthIndex: '/data/KIE/ocean_depth_index.json.gz',
-        oceanDepthContours: '/data/KIE/ocean_depth_index_contours.json.gz'
+    api.cities.setCityDataFiles('KIL', {
+        buildingsIndex: '/data/KIL/buildings_index.bin.gz',
+        demandData: '/data/KIL/demand_data.json.gz',
+        roads: '/data/KIL/roads.geojson.gz',
+        runwaysTaxiways: '/data/KIL/runways_taxiways.geojson.gz',
+        oceanDepthIndex: '/data/KIL/ocean_depth_index.json.gz',
+        oceanDepthContours: '/data/KIL/ocean_depth_index_contours.json.gz'
     });
 
     api.map.setLayerOverride({
@@ -55,7 +55,7 @@
     });
 
     api.hooks.onCityLoad(function(cityCode) {
-        if (cityCode === 'KIE') api.ui.showNotification(t('notification'), 'info');
+        if (cityCode === 'KIL') api.ui.showNotification(t('notification'), 'info');
     });
 
     console.log(LOG, 'Kiel mod loaded successfully!');

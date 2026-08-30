@@ -1,10 +1,10 @@
 #!/bin/bash
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-TARGET="$SCRIPT_DIR/../../cities/data/KIE"
+TARGET="$SCRIPT_DIR/../../cities/data/KIL"
 VERSION="1.30.0"
-echo "[Kiel Mod] Copying data files to cities/data/KIE..."
+echo "[Kiel Mod] Copying data files to cities/data/KIL..."
 mkdir -p "$TARGET"
-cp -f "$SCRIPT_DIR/data/KIE/"* "$TARGET/"
+cp -f "$SCRIPT_DIR/data/KIL/"* "$TARGET/"
 echo "[Kiel Mod] Data files copied successfully."
 if [ ! -f "$SCRIPT_DIR/pmtiles" ]; then
     echo "[Kiel Mod] Downloading pmtiles..."
