@@ -39,4 +39,4 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 | Stuttgart | STU | [updates/stu-update.json](updates/stu-update.json) |
 | Bonn-Köln | BNC | [updates/bnc-update.json](updates/bnc-update.json) |
 | Hannover-Braunschweig | HBS | [updates/hbs-update.json](updates/hbs-update.json) |
-| Rhein-Main-Neckar (Wiesbaden, Mainz, Frankfurt, Mannheim, Heidelberg, Ludwigshafen, Karlsruhe) | WFK | [updates/wfk-update.json](updates/wfk-update.json) |
+| Frankfurt Rhein-Main-Neckar (Wiesbaden, Mainz, Mannheim, Heidelberg, Ludwigshafen, Karlsruhe) | WFK | [updates/wfk-update.json](updates/wfk-update.json) |

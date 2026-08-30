@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-30",
-      "changelog": "Remove orphaned zero-demand points left behind after isolated-point cleanup.",
+      "changelog": "Rename map to Frankfurt Rhein-Main-Neckar for discoverability.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-deutschland/releases/download/wfk-v1.0.0/rheinmainneckar_v1.0.0.zip",
-      "sha256": "9b787b6aa17d6a91b0cbc65c34788da4b13431f4c63784c35e80121c1419e785"
+      "sha256": "2bd918d70a0db414076c140f309ec82118ccecf83e587527b3a4abe9300d0215"
     }
   ]
 }
